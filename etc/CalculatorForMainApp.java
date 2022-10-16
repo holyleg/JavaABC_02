@@ -4,8 +4,6 @@ public class CalculatorForMainApp {
 	private int i;
 	private int j;
 
-	CalculatorForMainApp calculator = new CalculatorForMainApp();
-
 	public int add(int i, int j) {
 		this.i = i;
 		this.j = j;
